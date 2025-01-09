@@ -67,10 +67,10 @@ def dm_twitter_followers(base_message):
 
 # Main Workflow
 if __name__ == "__main__":
-    IMAGE_URL = "https://example.com/image.jpg"
-    IMAGE_PATH = "local_image.jpg"  # Local image path for Twitter
-    CAPTION = "🚀 New Product Launch: Check it out! #AI #Tech"
-    SALES_SCRIPT = "Check out our special offer here: https://example.com"
+    IMAGE_URL = ""
+    IMAGE_PATH = ""  # Local image path for Twitter
+    CAPTION = ""
+    SALES_SCRIPT = ""
 
     # Post to Instagram
     post_to_instagram(IMAGE_URL, CAPTION)
