@@ -67,4 +67,4 @@ python main.py
 sudo print-money
 ```
 
-
+TODO: update api to work with instagram and linkedin
