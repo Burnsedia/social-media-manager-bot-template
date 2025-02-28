@@ -106,5 +106,5 @@ if __name__ == "__main__":
     post_to_twitter(IMAGE_PATH, CAPTION)
 
     # DM Twitter Followers
-    dm_twitter_followers(SALES_SCRIPT)
+    # dm_twitter_followers(SALES_SCRIPT)
 
